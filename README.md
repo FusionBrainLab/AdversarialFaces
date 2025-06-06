@@ -1,3 +1,7 @@
+This repository contains the code and experiments for the paper:
+
+## "Inverting Black-Box Face Recognition Systems via Zero-Order Optimization in Eigenface Space"
+
 ### 🔧 How to Use
 
 #### 📁 Datasets
